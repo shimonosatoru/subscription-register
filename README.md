@@ -10,6 +10,10 @@
     - Create
     - Update
 
+- DBはSheetAPI
+    - https://sheetapi.co/
+    - RESTfulAPIでスプレッドシートに保存可能
+
 ### 実装予定
 
 - planは静的に配置されているので、StripAPIに置き換える
